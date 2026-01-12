@@ -536,7 +536,7 @@ requires-dist = [
 dev = [
     { name = "myst-parser", specifier = ">=4.0.1" },
     { name = "pytest", specifier = ">=9.0.2" },
-    { name = "sphinx", specifier = ">=7.0.0,<9.0.0" },
+    { name = "sphinx", specifier = ">=8.2.3" },
     { name = "sphinx-rtd-theme", specifier = ">=3.0.0rc1" },
 ]
 
